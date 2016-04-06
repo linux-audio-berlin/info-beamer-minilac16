@@ -12,12 +12,12 @@ text = util.running_text{
     font = bold;
     size = 150;
     speed = 280;
-    color = {0.2, 0.2, 0.2, 1};
+    color = {0.9, 0.9, 0.9, 1};
     generator = util.generator(feeder)
 }
 
 function node.render()
-    gl.clear(1,1,1,1)
+    gl.clear(0.2, 0.5, 0.8, 1)
     tux:draw(230, 700, 450, 1080, 0.9)
-    text:draw(HEIGHT/2)
+    text:draw(HEIGHT/3)
 end

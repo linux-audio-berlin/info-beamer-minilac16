@@ -149,10 +149,10 @@ util.data_mapper{
 
 -- "TALK/ID-5059"
 function node.render()
-    gl.clear(1,1,1,1)
+    gl.clear(0.2, 0.5, 0.8, 1)
     tux:draw(230, 700 , 450, 1080, .9)
-    bold:write(110, 300, line.get(), 90, 0.2, 0.2, 0.2, 1)
-    bold:write(110, 400,  "miniLAC", 90, 0.2, 0.5, 0.8, 1)
+    bold:write(110, 300, line.get(), 90, 0.8, 0.8, 0.8, 1)
+    bold:write(110, 400,  "miniLAC", 90, 1, 1, 1, 1)
 
     local alpha = 0
     if sys.now() > fade_start then
@@ -160,14 +160,14 @@ function node.render()
         alpha = math.min(alpha, 1.0)
     end
 
-    regular:write(500, 430, current_talk.nice_start, 50, 0.2,0.2,0.2,alpha)
+    regular:write(500, 430, current_talk.nice_start, 50, 0.8, 0.8, 0.8,alpha)
     for idx, line in ipairs(wrap(current_talk.title, 40)) do
         if idx > 5 then
             break
         end
-        regular:write(500, 450 + 60 * idx, line, 50, 0.2,0.2,0.2,alpha)
+        regular:write(500, 450 + 60 * idx, line, 50, 0.8, 0.8, 0.8,alpha)
     end
     for i, speaker in ipairs(current_talk.speakers) do
-        regular:write(500, 700 + 50 * i, speaker, 50, .2,.5,.8,alpha)
+        regular:write(500, 700 + 50 * i, speaker, 50, 1, 1, 1,alpha)
     end
 end
