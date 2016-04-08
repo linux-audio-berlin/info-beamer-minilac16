@@ -1,0 +1,26 @@
+{
+    "devices": {
+        "2429607372": "Seminar room",
+        "179616622":  "Upper deck",
+        "786785340":  "Mainhall",
+        "1805160172": "Soundlab"
+    },
+    "rooms": {
+        "Mainhall": {
+            "texture": "marble",
+            "speed": 70
+        },
+        "Seminar room": {
+            "texture": "marble",
+            "speed": 70
+        },
+        "Soundlab": {
+            "texture": "marble",
+            "speed": 70
+        },
+        "Upper deck": {
+            "texture": "marble",
+            "speed": 70
+        }
+    }
+}

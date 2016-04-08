@@ -1,0 +1,429 @@
+[
+    {
+        "duration": 15,
+        "event_id": 8,
+        "lang": "en",
+        "lines": [
+            "Dave, excds and riot say hello, introduce the place and themselves",
+            " You know the drill",
+            ""
+        ],
+        "place": "Mainhall",
+        "speakers": [
+            "Dave",
+            "Excds",
+            "riot"
+        ],
+        "start": "10:00",
+        "title": "Opening",
+        "unix": 1460188800,
+        "unix_end": 1460189700
+    },
+    {
+        "duration": 50,
+        "event_id": 2,
+        "lang": "en",
+        "lines": [
+            " I have created several open-source software and hardware repositories for integrating haptic technology into music performance including 1) the FireFader Arduino-based haptic device, which can be eas"
+        ],
+        "place": "Mainhall",
+        "speakers": [
+            "Edgarberdahl"
+        ],
+        "start": "10:30",
+        "title": "Open-Source Haptics for Music",
+        "unix": 1460190600,
+        "unix_end": 1460193600
+    },
+    {
+        "duration": 105,
+        "event_id": 12,
+        "lang": "en",
+        "lines": [
+            " This workshop, given by Harry van Haaren of [http://openavproductions",
+            "com OpenAV Productions] will introduce the [https://github",
+            "com/harryhaaren/openAV-Fabla2 Fabla2] sampler, and its capabilities fo"
+        ],
+        "place": "Mainhall",
+        "speakers": [
+            "Harryhaaren"
+        ],
+        "start": "12:00",
+        "title": "OpenAV on Fabla2",
+        "unix": 1460196000,
+        "unix_end": 1460202300
+    },
+    {
+        "duration": 90,
+        "event_id": 20,
+        "lang": "en",
+        "lines": [
+            " In this workshop we want to show you a complete and fully functional Live Setup for the stage",
+            " \"Live\" means, you can musically interact with the music (by arranging and mixing the tracks on-the-fly) "
+        ],
+        "place": "Seminar room",
+        "speakers": [
+            "Vince"
+        ],
+        "start": "12:00",
+        "title": "Linux Live on Stage - SuperBoucle, Carla, Faust & LV2 Plugins",
+        "unix": 1460196000,
+        "unix_end": 1460201400
+    },
+    {
+        "duration": 45,
+        "event_id": 22,
+        "lang": "en",
+        "lines": [
+            "I'll go trough all the microphone-basics, from different transducers, transformers and polar patterns up to stereo microphony",
+            "[t",
+            "b",
+            "e]"
+        ],
+        "place": "Soundlab",
+        "speakers": [
+            "raven"
+        ],
+        "start": "12:00",
+        "title": "Introduction to microphony",
+        "unix": 1460196000,
+        "unix_end": 1460198700
+    },
+    {
+        "duration": 15,
+        "event_id": 4,
+        "lang": "en",
+        "lines": [
+            "  The haptic hand is a greatly simplified robotic hand that is designed to mirror the human hand and provide haptic force feedback for applications in music",
+            " The \"fingers\" of the haptic hand device ar"
+        ],
+        "place": "Mainhall",
+        "speakers": [
+            "Denis Huber"
+        ],
+        "start": "14:45",
+        "title": "The Haptic Hand",
+        "unix": 1460205900,
+        "unix_end": 1460206800
+    },
+    {
+        "duration": 90,
+        "event_id": 11,
+        "lang": "en",
+        "lines": [
+            "This workshop, conducted by Gerald Mwangi of Jimson Drift (www",
+            "jimson-drift",
+            "de) focuses on the early stages of mixing in music production",
+            " I want to share my experiences on initial EQing, Gating and C"
+        ],
+        "place": "Soundlab",
+        "speakers": [
+            "JimsonDrift"
+        ],
+        "start": "15:00",
+        "title": "Essential Aspects on Mixing",
+        "unix": 1460206800,
+        "unix_end": 1460212200
+    },
+    {
+        "duration": 90,
+        "event_id": 13,
+        "lang": "en",
+        "lines": [
+            " This workshop (90 min) will give a practical introduction to programming LV2 and VST plugins on Linux using Faust",
+            "  Topics:  * Installing the required software ([http://faust",
+            "grame",
+            "fr/ Faust], [https"
+        ],
+        "place": "Mainhall",
+        "speakers": [
+            "Aggraef"
+        ],
+        "start": "15:00",
+        "title": "Plugin Programming with Faust",
+        "unix": 1460206800,
+        "unix_end": 1460212200
+    },
+    {
+        "duration": 90,
+        "event_id": 21,
+        "lang": "en",
+        "lines": [
+            "We would like to share the results of our master thesis, the loop-Ensemble",
+            " We used Pure data Extended to develop three interconnectable musical instruments that are able to self-describe their techni"
+        ],
+        "place": "Seminar room",
+        "speakers": [
+            "loop2016"
+        ],
+        "start": "15:15",
+        "title": "loop - Open educational instruments made in pure data",
+        "unix": 1460207700,
+        "unix_end": 1460213100
+    },
+    {
+        "duration": 120,
+        "event_id": 15,
+        "lang": "en",
+        "lines": [
+            " The proposed talk/workshop is nothing more than a follow-up to the tradition of LAC2013@IEM-Graz, LAC2014@ZKM-Karlsruhe and LAC2015@JGU-Mainz, as an informal hands-on demonstration to the most releva"
+        ],
+        "place": "Mainhall",
+        "speakers": [
+            "Rncbc"
+        ],
+        "start": "17:00",
+        "title": "Yet Same Old Qstuff* (continued)",
+        "unix": 1460214000,
+        "unix_end": 1460221200
+    },
+    {
+        "duration": 90,
+        "event_id": 19,
+        "lang": "en",
+        "lines": [
+            "  The workshop will be lead by Canorus developers Matev\u017e Jekovec, Reinhard Katzmann, and Georg Rudolph",
+            " Topics: * We will start with the history of Canorus * Then we'll compose a simple multi-voice, m"
+        ],
+        "place": "Seminar room",
+        "speakers": [
+            "Matev\u017e Jekovec",
+            "Reinhard Katzmann",
+            "Georg Rudolph"
+        ],
+        "start": "17:00",
+        "title": "Canorus - A next generation open source music score editor",
+        "unix": 1460214000,
+        "unix_end": 1460219400
+    },
+    {
+        "duration": 45,
+        "event_id": 1,
+        "lang": "en",
+        "lines": [
+            "I presented my plugin unofficial at the LAC2015",
+            " People liked it, and said I should create a presentation about it",
+            " This time I will present the plugin and talk about future plans (and maybe encourage"
+        ],
+        "place": "Soundlab",
+        "speakers": [
+            "Palo"
+        ],
+        "start": "18:45",
+        "title": "Stepp0r a renoise plugin",
+        "unix": 1460220300,
+        "unix_end": 1460223000
+    },
+    {
+        "duration": 90,
+        "event_id": 6,
+        "lang": "en",
+        "lines": [
+            "This meta lecture is about the process of doing a Linux Audio Conference",
+            " I'd like to talk about: * what the process was like for us as a loose community * what the pitfalls were * what improvements w"
+        ],
+        "place": "Mainhall",
+        "speakers": [
+            "Dave",
+            "riot"
+        ],
+        "start": "10:00",
+        "title": "LAC is dead! Long live miniLAC!",
+        "unix": 1460275200,
+        "unix_end": 1460280600
+    },
+    {
+        "duration": 45,
+        "event_id": 7,
+        "lang": "en",
+        "lines": [
+            " The volunteer driven [http://publicdomainproject",
+            "org/ Public Domain Project] goals are to collect, digitize and make freely available audio records which in the public domain (no copyrights on it any"
+        ],
+        "place": "Seminar room",
+        "speakers": [
+            "nuess0r"
+        ],
+        "start": "10:00",
+        "title": "The Public Domain Project - Building a long term music archive with open source and crowd sourcing",
+        "unix": 1460275200,
+        "unix_end": 1460277900
+    },
+    {
+        "duration": 45,
+        "event_id": 10,
+        "lang": "en",
+        "lines": [
+            "This Workshop is in addition to the Lecture, and focuses on LUA scripting to create renoise plugins (like Stepp0r)",
+            ""
+        ],
+        "place": "Soundlab",
+        "speakers": [
+            "Palo"
+        ],
+        "start": "10:00",
+        "title": "Stepp0r a renoise plugin",
+        "unix": 1460275200,
+        "unix_end": 1460277900
+    },
+    {
+        "duration": 40,
+        "event_id": 3,
+        "lang": "en",
+        "lines": [
+            "Talk addresses the specific character of software, written as a hobby, and what a user, unfamiliar with a hobbyist community and the body of hobbyist software, should expect from such software in term"
+        ],
+        "place": "Mainhall",
+        "speakers": [
+            "Louigi_Verona"
+        ],
+        "start": "12:00",
+        "title": "On Hobbyist Software",
+        "unix": 1460282400,
+        "unix_end": 1460284800
+    },
+    {
+        "duration": 90,
+        "event_id": 16,
+        "lang": "en",
+        "lines": [
+            "A challenge to produce a music track within 60 minutes",
+            " Participants get a short MIDI file as a starting point, and work on their track using the tools and techniques of their choice",
+            ""
+        ],
+        "place": "Soundlab",
+        "speakers": [
+            "Umcaruje"
+        ],
+        "start": "12:00",
+        "title": "One Hour Challenge",
+        "unix": 1460282400,
+        "unix_end": 1460287800
+    },
+    {
+        "duration": 90,
+        "event_id": 23,
+        "lang": "en",
+        "lines": [
+            "This hacking event will be for creating and porting audio plugins",
+            " It will be mostly focused on [https://github",
+            "com/DISTRHO/DPF DPF] but the contents are applicable to other frameworks",
+            "  Topics:  * Cr"
+        ],
+        "place": "Seminar room",
+        "speakers": [
+            "FalkTX"
+        ],
+        "start": "12:00",
+        "title": "Let's make some plugins!",
+        "unix": 1460282400,
+        "unix_end": 1460287800
+    },
+    {
+        "duration": 15,
+        "event_id": 5,
+        "lang": "en",
+        "lines": [
+            "  Modal synthesis is a sound synthesis technique that bridges the gap between traditional \"unidirectional\" signal processing and computer simulation of acoustic phenomena",
+            " After explaining the theory "
+        ],
+        "place": "Mainhall",
+        "speakers": [
+            "Pascal Kaap",
+            "Zak Berkowitz"
+        ],
+        "start": "13:00",
+        "title": "Modal Synthesis using Synth-A-Modeler",
+        "unix": 1460286000,
+        "unix_end": 1460286900
+    },
+    {
+        "duration": 180,
+        "event_id": 18,
+        "lang": "en",
+        "lines": [
+            "  This hands-on workshop introduces participants to Bela, an open source embedded platform for ultra-low latency audio and sensor processing based on the BeagleBone Black",
+            " We will present the hardware"
+        ],
+        "place": "Mainhall",
+        "speakers": [
+            "Giuliomoro"
+        ],
+        "start": "15:00",
+        "title": "BELA - an open-source embedded platform for low-latency interactive audio",
+        "unix": 1460293200,
+        "unix_end": 1460304000
+    },
+    {
+        "duration": 60,
+        "event_id": 24,
+        "lang": "en",
+        "lines": [
+            "This hacking event (60 mins) will be for publishing your existing LV2 audio/midi plugins to the MOD Cloud system",
+            "  Topics:  * Verification (ttl validation and basic error checking) * Cross-compile * C"
+        ],
+        "place": "Mainhall",
+        "speakers": [
+            "FalkTX"
+        ],
+        "start": "15:00",
+        "title": "Publishing your LV2 plugins to the MOD Cloud",
+        "unix": 1460293200,
+        "unix_end": 1460296800
+    },
+    {
+        "duration": 120,
+        "event_id": 14,
+        "lang": "en",
+        "lines": [
+            "  This workshop (90 min) will give an introduction to physical modeling using examples that participants are invited to modify in order to create their own new physical models",
+            "  ''Note: Peter Vasil wi"
+        ],
+        "place": "Soundlab",
+        "speakers": [
+            "Edgarberdahl",
+            "Peter Vasil",
+            "Denis Huber"
+        ],
+        "start": "16:00",
+        "title": "Physical Modeling using Synth-A-Modeler",
+        "unix": 1460296800,
+        "unix_end": 1460304000
+    },
+    {
+        "duration": 90,
+        "event_id": 17,
+        "lang": "en",
+        "lines": [
+            "An informal demonstration and explanation of some of the less obvious features of Yoshimi, highlighting usability and convenience",
+            "  * Configuration and Recent History * Audio and Midi routing * Roots,"
+        ],
+        "place": "Seminar room",
+        "speakers": [
+            "Folderol"
+        ],
+        "start": "17:00",
+        "title": "Getting to know Yoshimi",
+        "unix": 1460300400,
+        "unix_end": 1460305800
+    },
+    {
+        "duration": 30,
+        "event_id": 9,
+        "lang": "en",
+        "lines": [
+            "Dave, excds and riot wrap things up and say goodbye",
+            " You've been there!"
+        ],
+        "place": "Mainhall",
+        "speakers": [
+            "Dave",
+            "Excds",
+            "riot"
+        ],
+        "start": "21:00",
+        "title": "Closing",
+        "unix": 1460314800,
+        "unix_end": 1460316600
+    }
+]
